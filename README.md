@@ -5,7 +5,7 @@
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>JS<li/>
+<li>JS</li>
 <li>DOM</li>
 <li>Node JS</li>
 <li>React</li>
