@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Привет меня зовут Gas1o, я Frontent разработчик 👋</h1>
+<p>занимаюсь разроботкой сайтов</p>
 
-<!--
-**Mansur1206/Mansur1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Мой стэк</h4>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JS<li/>
+<li>DOM</li>
+<li>Node JS</li>
+<li>React</li>
+</ul>
