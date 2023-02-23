@@ -3,8 +3,8 @@
 
 <h4>Мой стэк</h4>
 <ul>
-<li>HTML</li>
-<li>CSS</li>
+<li>HTML5</li>
+<li>CSS3</li>
 <li>JS</li>
 <li>DOM</li>
 <li>Node JS</li>
